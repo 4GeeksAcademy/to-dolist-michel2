@@ -10,3 +10,42 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.body{
+    margin-top: 100px;
+}
+
+ul li{
+    border: 1px solid grey;
+    list-style: none;
+    padding: 5px;
+}
+
+ul{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+    color: pink;
+}
+
+.bottom-text{
+    font-size: 11px;
+}
+
+.x {
+    cursor: pointer;
+    float: right; 
+    margin-left: 10px; 
+}
+
+.small-container {
+    max-width: 600px; 
+    margin: 0 auto;
+    padding: 0 20px; 
+   
+}
+
+
